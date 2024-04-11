@@ -4,12 +4,6 @@ Contains Dockerfiles that can be used to set up various development containers f
 
 ## Containers
 
-### Alpine Linux and neovim
-
-Alpine 3.19.1
-
-neovim latest
-
 ### Ubuntu Linux and neovim
 
 Ubuntu Jammy-20240227
